@@ -1,8 +1,14 @@
-# REQUIRES GOO ENGINE 3.4.1
-## must credit by either linking this github page or https://twitter.com/Elagrimm6
+# Omega Strikers Shader for ***Blender***
+__*REQUIRES GOO ENGINE 4.1*__
 
-base of shader by - https://twitter.com/seilotte?t=BTuj50BANWjFQXomtTS-rg&s=09
+## **CREDIT** by linking this github page (https://github.com/Elagrimm/BLENDER-Omega-Strikers-Shader) 
+#### **OR** by linking to my Bluesky/Twitter (https://bsky.app/profile/elagrimm.bsky.social - https://x.com/Elagrimm6)
 
-**heavily modified by me**
+### People who have helped:
+- https://x.com/AerthasVeras
+- https://x.com/seilotte
+- https://x.com/MayaIsAnimating
+
+
 
 (put yt link here?)
